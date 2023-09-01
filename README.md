@@ -26,7 +26,4 @@ Additional credits to the other owners of sources not made by XStables
 
 NOTE: This mod could/may work on updates 36 and 37, however, this mod was made with update 38+.
 
-WARNING: The green download button does not work properly. Click the below link to get the mod.
-https://github.com/XStables/BloonsPlus/releases/tag/beta-1
-
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
