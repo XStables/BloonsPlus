@@ -1,0 +1,10 @@
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\XStablesMod.csproj.AssemblyReference.cache
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\XStablesMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\XStablesMod.AssemblyInfoInputs.cache
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\XStablesMod.AssemblyInfo.cs
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\XStablesMod.csproj.CoreCompileInputs.cache
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\bin\Debug\net6.0\XStablesMod.deps.json
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\bin\Debug\net6.0\XStablesMod.dll
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\XStablesMod.dll
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\refint\XStablesMod.dll
+C:\Users\astab\Documents\BTD6 Mod Sources\XStablesMod\obj\Debug\net6.0\ref\XStablesMod.dll
